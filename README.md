@@ -3,8 +3,11 @@ Botão Clicado - Android com Java
 Este repositório demonstra a implementação de um botão em um aplicativo Android que, ao ser clicado, executa uma ação específica. O projeto é desenvolvido em Java e serve como exemplo para iniciantes que estão aprendendo a desenvolver aplicativos Android.
 
 Funcionalidades:
-Interface Simples: Uma interface de usuário básica com um botão central.
-Ação ao Clicar: Quando o botão é clicado, uma mensagem é exibida na tela.
+
+Interface Simples:
+Uma interface de usuário básica com um botão central.
+Ação ao Clicar:
+Quando o botão é clicado, uma mensagem é exibida na tela.
 
 Pré-requisitos:
 - Java Development Kit (JDK)
