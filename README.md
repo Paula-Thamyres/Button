@@ -28,6 +28,9 @@ Uso
 - Uma mensagem será exibida na tela.
 - Capturas de Tela
 
+[![Telas do projeto](https://github.com/Paula-Thamyres/Button/blob/master/img01.png)](https://github.com/Paula-Thamyres/Button/blob/master/img02.png)
+
+
 
 Contribuição
 Sinta-se à vontade para contribuir com este projeto. Abra um pull request ou reporte problemas na seção de Issues.
@@ -35,3 +38,4 @@ Sinta-se à vontade para contribuir com este projeto. Abra um pull request ou re
 Licença
 Este projeto está licenciado sob a MIT License.
 
+https://github.com/Paula-Thamyres/Button/blob/master/img01.png
