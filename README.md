@@ -28,7 +28,9 @@ Uso
 - Uma mensagem será exibida na tela.
 - Capturas de Tela
 
-[![Telas do projeto](https://github.com/Paula-Thamyres/Button/blob/master/img01.png)](https://github.com/Paula-Thamyres/Button/blob/master/img02.png)
+![Telas do projeto](https://github.com/Paula-Thamyres/Button/blob/master/img01.png)
+![Telas do projeto](https://github.com/Paula-Thamyres/Button/blob/master/img02.png)
+
 
 
 
