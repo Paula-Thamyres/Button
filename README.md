@@ -6,6 +6,7 @@ Funcionalidades:
 
 Interface Simples:
 Uma interface de usuário básica com um botão central.
+
 Ação ao Clicar:
 Quando o botão é clicado, uma mensagem é exibida na tela.
 
